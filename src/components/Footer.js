@@ -45,7 +45,7 @@ function Footer() {
       <ReactLogoImg src={reactLogo} alt="React logo" />
       This site is powered by <a href="https://facebook.github.io/react/" target="_blank" rel="noopener noreferrer">React</a>.
     ` It was bootstrapped with <a href="https://github.com/facebookincubator/create-react-app" target="_blank" rel="noopener noreferrer">Create React App</a>.
-      The source code is <a href="https://github.com/robwhess/my-osu-website" target="_blank" rel="noopener noreferrer">on GitHub <FontAwesome name="github" /></a>.
+      The source code is <a href="https://github.com/quasibit-wrangler/tictactoe-react-intro" target="_blank" rel="noopener noreferrer">on GitHub <FontAwesome name="github" /></a>.
     </FooterContainer>
   );
 }
